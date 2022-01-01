@@ -19,6 +19,7 @@ Dark mode:
 
 - Button text color not visible on iOS.
 - There is a small bug on correct answer logic. 
+- Question Number
 
 
 ## Installation
